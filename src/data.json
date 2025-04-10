@@ -1,0 +1,63 @@
+
+{
+   "Tables":
+   [ 
+        {
+            "pics":[   
+                {
+                    "url" : "бряст0.JPG" 
+                },
+                {
+                    "url" :"бряст1.JPG"
+                },
+                {
+                    "url" :"бряст2.JPG"               
+                },
+                {
+                    "url" :"бряст3.JPG"    
+                }
+                ,
+                {
+                    "url" :"бряст4.JPG"    
+                }
+                ,
+                {
+                    "url" :"бряст5.JPG"    
+                }
+                ,
+                {
+                    "url" :"бряст6.JPG"    
+                }
+                ,
+                {
+                    "url" :"бряст7.JPG"    
+                }
+                ,
+                {
+                    "url" :"бряст8.JPG"    
+                }
+            ],
+            "price":720,
+            "wood":"Бряст"
+        },
+        {
+            "pics":[   
+                {
+                    "url" : "https://bauhaus.bg/img/145628/640/640/12.jpg"
+                },
+                {
+                    "url" : "https://bauhaus.bg/img/145628/640/640/12.jpg"
+                },
+                {
+                    "url" : "https://bauhaus.bg/img/145628/640/640/12.jpg"
+                },
+                {
+                    "url" : "https://bauhaus.bg/img/145628/640/640/12.jpg"
+                }
+            ],
+            "price":750,
+            "wood":"Орех"
+        }
+    ]
+    
+}
