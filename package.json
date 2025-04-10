@@ -1,14 +1,13 @@
 {
-  "homepage":"https://ElvisSpassov.github.io/table-builder",
+  "homepage":"https://ElvisSpassov.github.io/table-builder/index.html",
   "name": "react-essentials-start",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
+    "deploy": "gh-pages -d dist"
+},
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
